@@ -5,4 +5,4 @@ Private Github profile for experimental projects.
 - Python 3.9
 
 ### IDE Used
-- PyCharm Community Edition 
+- PyCharm 2022.2.2
