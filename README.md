@@ -2,7 +2,7 @@
 Private Github profile for experimental projects.
 
 ### Languages
-- .py 
+- Python 3.9
 
 ### IDE
-- PyCharm 
+- PyCharm Community Edition 
